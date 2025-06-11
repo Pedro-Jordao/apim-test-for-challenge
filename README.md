@@ -65,6 +65,12 @@ No Azure API Management, foi criada uma subscription chamada **APIsPagamento** c
 
 ---
 
+
+Gerando Secret
+
+![Captura de tela 2025-06-11 115659](https://github.com/user-attachments/assets/89f7cfd7-d584-456e-bee1-22d1b37fe5a4)
+
+---
 ## 🖼️ Evidências Visuais
 
 
@@ -75,12 +81,6 @@ Gerando App Registration
 ![Captura de tela 2025-06-11 115401](https://github.com/user-attachments/assets/54f07e70-3681-43a2-b483-439bb6317b96)
 
 
-
-Gerando Secret
-
-![Captura de tela 2025-06-11 115659](https://github.com/user-attachments/assets/89f7cfd7-d584-456e-bee1-22d1b37fe5a4)
-
----
 
 ## 🧾 Notas Finais
 
